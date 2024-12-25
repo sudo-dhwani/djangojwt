@@ -1,0 +1,17 @@
+# Web Framework
+django==4.2.7
+
+# REST Framework
+djangorestframework==3.14.0
+
+# JWT Authentication
+djangorestframework-simplejwt==5.3.1
+
+# Environment Variables
+python-dotenv==1.0.1
+
+# CORS Headers
+django-cors-headers==4.3.1
+
+# Database Adapter
+psycopg2-binary==2.9.9  # For PostgreSQL 

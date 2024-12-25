@@ -1,0 +1,8 @@
+# Virtual Environment
+jwtenv/ 
+*.pyc
+__pycache__/
+db.sqlite3
+.env
+venv/
+.vscode/
